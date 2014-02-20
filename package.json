@@ -1,0 +1,13 @@
+{
+  "name": "stagas-hover",
+  "description": "hover elements",
+  "version": "0.0.3",
+  "keywords": [
+    "hover"
+  ],
+  "dependencies": {
+    "stagas-mouseenter": "git://github.com/npmcomponent/stagas-mouseenter.git",
+    "stagas-mouseleave": "git://github.com/npmcomponent/stagas-mouseleave.git"
+  },
+  "license": "MIT"
+}

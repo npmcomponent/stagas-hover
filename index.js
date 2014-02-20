@@ -9,8 +9,8 @@
  * Module dependencies.
  */
 
-var mouseenter = require('mouseenter')
-var mouseleave = require('mouseleave')
+var mouseenter = require('stagas-mouseenter')
+var mouseleave = require('stagas-mouseleave')
 
 /**
  * Export hover.
